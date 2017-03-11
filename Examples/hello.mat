@@ -1,0 +1,21 @@
+# Created by Octave 4.2.1, Wed Mar 01 16:07:32 2017 EET <aoc@aoc-pc>
+# name: price
+# type: matrix
+# rows: 4
+# columns: 1
+ 4648
+ 4665
+ 1111
+ 5000
+
+
+# name: featureX
+# type: matrix
+# rows: 4
+# columns: 2
+ 5 235
+ 6 84
+ 4 243
+ 6 123
+
+
